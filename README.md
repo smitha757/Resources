@@ -1,2 +1,3 @@
 # Resources
-Collated resources for Automation, UIPath, Python
+Resources for Automation, UIPath, Python
+
